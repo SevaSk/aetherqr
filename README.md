@@ -40,5 +40,6 @@ We welcome contributions! Feel free to post and issues or recommendations to imp
 
 ## 📞 Contact
 Find us at our website [https://www.aetherqr.com](https://www.aetherqr.com/)
+
+
 <a href="https://cal.com/sevask/15-min-meeting"><img alt="Book us" src="https://cal.com/book-with-cal-dark.svg" /></a>
-https://cal.com/sevask/15-min-meeting
