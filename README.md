@@ -22,6 +22,7 @@ A VM with a T4 GPU and at least 22 GB of RAM is recommended. If out-of-memory ex
 
 - [qrcode_monster](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster/tree/main/v2)
 - [brightness](https://huggingface.co/latentcat/control_v1p_sd15_brightness)
+- [lineart](https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors)
 
 ## 🔧 Lora Used
 
