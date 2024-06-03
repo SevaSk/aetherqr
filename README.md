@@ -1,10 +1,10 @@
 # [<img src="https://github.com/SevaSk/aetherqr/assets/50382291/12992621-60c9-4d01-86d0-a350708a7989" alt="image" width="35" height="35"> AetherQR](https://www.aetherqr.com)
 
-Welcome to the [**AetherQR**](https://www.aetherqr.com) repository! This the free and opensource workflow for generating custom QR code designs.
+Welcome to the **AetherQR** repository! This the free and open source workflow for generating custom QR code designs.
 
 ## 🚀 Getting Started
 
-To get started with AetherQR, you'll need to install [ComfyUI](https://github.com/comfyanonymous/ComfyUI) first. Follow the instructions in their repository to set it up. After which you simply load the workflow aetherqr.json and input the iamges in the input directory. 
+To get started with AetherQR, you'll need to install [ComfyUI](https://github.com/comfyanonymous/ComfyUI) first. Follow the instructions in their repository to set it up. After which you simply load the workflow aetherqr.json and input the images in the input directory. 
 
 ## 🖥️ Hardware Requirements
 
