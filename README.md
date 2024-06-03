@@ -34,7 +34,7 @@ A VM with a T4 GPU and at least 22 GB of RAM is recommended. If out-of-memory ex
 - [Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
 - [ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
 - [ComfyUI Layer Style](https://github.com/chflame163/ComfyUI_LayerStyle)
-
+- [ComfyUI Controlnet Aux](https://github.com/Fannovel16/comfyui_controlnet_aux)
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
