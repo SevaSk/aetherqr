@@ -1,14 +1,14 @@
 # [<img src="https://github.com/SevaSk/aetherqr/assets/50382291/12992621-60c9-4d01-86d0-a350708a7989" alt="image" width="35" height="35"> AetherQR](https://www.aetherqr.com)
 
-Welcome to the **AetherQR** repository! This the free and open source workflow for generating custom QR code designs.
+Welcome to the **AetherQR** repository! This is the free and open-source workflow for generating custom QR code designs.
 
 ## 🚀 Getting Started
 
-To get started with AetherQR, you'll need to install [ComfyUI](https://github.com/comfyanonymous/ComfyUI) first. Follow the instructions in their repository to set it up. After which you simply load the workflow aetherqr.json and input the images in the input directory. 
+To get started with AetherQR, you'll need to install [ComfyUI](https://github.com/comfyanonymous/ComfyUI) first. Follow the instructions in their repository to set it up. After that, simply load the workflow `aetherqr.json` and input the images in the input directory.
 
 ## 🖥️ Hardware Requirements
 
-We use use a VM with a T4 GPU and at least 22 GB of RAM. If you encounter out-of-memory exceptions, try lowering the batch size.
+We use a VM with a T4 GPU and at least 22 GB of RAM. If you encounter out-of-memory exceptions, try lowering the batch size.
 
 ## 📦 Checkpoints Used
 
@@ -36,10 +36,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🤝 Contributing
 
-We welcome contributions! Feel free to post and issues or recommendations to improve the workflow. 
+We welcome contributions! Feel free to post any issues or recommendations to improve the workflow.
 
 ## 📞 Contact
-Find us at our website [https://www.aetherqr.com](https://www.aetherqr.com/)
 
+Find us on our website [https://www.aetherqr.com](https://www.aetherqr.com/)
 
 <a href="https://cal.com/sevask/15-min-meeting"><img alt="Book us" src="https://cal.com/book-with-cal-dark.svg" /></a>
