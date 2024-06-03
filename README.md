@@ -1,4 +1,4 @@
-# [AetherQR <img src="https://github.com/SevaSk/aetherqr/assets/50382291/12992621-60c9-4d01-86d0-a350708a7989" alt="image" width="35" height="30">](https://www.aetherqr.com)
+# [<img src="https://github.com/SevaSk/aetherqr/assets/50382291/12992621-60c9-4d01-86d0-a350708a7989" alt="image" width="35" height="35"> AetherQR](https://www.aetherqr.com)
 
 Welcome to the [**AetherQR**](https://www.aetherqr.com) repository! This the free and opensource workflow for generating custom QR code designs.
 
