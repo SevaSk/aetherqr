@@ -4,11 +4,11 @@ Welcome to the **AetherQR** repository! This is the free and open-source workflo
 
 ## 🚀 Getting Started
 
-To get started with AetherQR, you'll need to install [ComfyUI](https://github.com/comfyanonymous/ComfyUI) first. Follow the instructions in their repository to set it up. After that, simply load the workflow `aetherqr.json` and input the images in the input directory.
+To begin using AetherQR, first install [ComfyUI](https://github.com/comfyanonymous/ComfyUI) by following the instructions in their repository. Once set up, load the workflow `aetherqr.json` and input the images in the input directory.
 
 ## 🖥️ Hardware Requirements
 
-We use a VM with a T4 GPU and at least 22 GB of RAM. If you encounter out-of-memory exceptions, try lowering the batch size.
+A VM with a T4 GPU and at least 22 GB of RAM is recommended. If out-of-memory exceptions occur, consider lowering the batch size.
 
 ## 📦 Checkpoints Used
 
@@ -36,10 +36,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🤝 Contributing
 
-We welcome contributions! Feel free to post any issues or recommendations to improve the workflow.
+Contributions are welcome! Feel free to post any issues or recommendations to improve the workflow.
 
 ## 📞 Contact
 
-Find us on our website [https://www.aetherqr.com](https://www.aetherqr.com/)
+Visit the website at [https://www.aetherqr.com](https://www.aetherqr.com/)
 
-<a href="https://cal.com/sevask/15-min-meeting"><img alt="Book us" src="https://cal.com/book-with-cal-dark.svg" /></a>
+<a href="https://cal.com/sevask/15-min-meeting"><img alt="Book a meeting" src="https://cal.com/book-with-cal-dark.svg" /></a>
