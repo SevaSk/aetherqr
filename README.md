@@ -1,4 +1,5 @@
-# [AetherQR](https://www.aetherqr.com) 🚀
+# [AetherQR](https://www.aetherqr.com) ![image](https://github.com/SevaSk/aetherqr/assets/50382291/12992621-60c9-4d01-86d0-a350708a7989)
+
 
 Welcome to the **AetherQR** repository! This the free and opensource workflow for generating custom QR code designs.
 
