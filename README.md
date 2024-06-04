@@ -35,6 +35,10 @@ A VM with a T4 GPU and at least 22 GB of RAM is recommended. If out-of-memory ex
 - [ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
 - [ComfyUI Layer Style](https://github.com/chflame163/ComfyUI_LayerStyle)
 - [ComfyUI Controlnet Aux](https://github.com/Fannovel16/comfyui_controlnet_aux)
+- [ComfyUI_essentials](https://github.com/cubiq/ComfyUI_essentials)
+- [https://github.com/LykosAI/ComfyUI-Inference-Core-Nodes](https://github.com/LykosAI/ComfyUI-Inference-Core-Nodes)
+- [ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes)
+- [Was Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui) 
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
